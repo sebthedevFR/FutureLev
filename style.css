@@ -1,0 +1,79 @@
+#gameDiv {
+	position: fixed;
+	margin-left: 420px;
+	margin-top: 150px;
+	border-style: solid 40px black;
+}
+
+#click{
+	position: fixed;
+	background-color:;
+	margin-left: 650px;
+	margin-top: 75px;
+	width: 500px;
+	height: 50px;
+	color:white;
+}
+
+body {
+	background-color:black;
+	
+}
+
+.description {
+	position: fixed;
+	background-color: ;
+	color: white;
+	width: 230px;
+	height: 230px;
+	margin-top: 20%;
+	margin-left:10%;
+	font-family: sans-serif;
+}
+
+.description h1{
+	text-align: center;
+	font-family: Copperplate, 'Copperplate Gothic Light', fantasy;
+}
+
+.description p{
+	margin-top: 150px;
+}
+
+.description a {
+	text-decoration: none;
+	color: white;
+	font-weight: 
+}
+
+.description a:hover{
+	color:red;
+}
+
+.counter{
+	position: fixed;
+	width: 450px;
+	margin-left: 80%;
+	margin-top: 38%;
+	color: white;
+	padding-top: 180px;
+}
+
+.counter p{
+	display: inline;
+	padding-top: 30px;
+}
+
+.counter script{
+	margin-top: 30px;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -khtml-user-select: none;    /* Konqueror */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* IE/Edge */
+  user-select: none;           /* non-prefixed version, currently
+                                  not supported by any browser */
+}
